@@ -1,16 +1,30 @@
-## Hi there 👋
++ - + - + - + - + - + - + - +
+                            
++ ----------------------- +
+-      Hello World!       -
++ ----------------------- +
 
-<!--
-**0ct0b3r37/0ct0b3r37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
++ - + - + - + - + - + - + - +
 
-Here are some ideas to get you started:
++ ----------------------- +
+-        INTERESTS        -
++ ----------------------- +
+- · CPP                   -
+- · REVERSE ENGINEERING   -
++ ----------------------- +
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
++ - + - + - + - + - + - + - +
+
++ ---------------------- +
+-     CURENTLY USING     -
++ ---------------------- +
+- · MacOS Tahoe          -
+- · Windows 11           -
+- · Gentoo               -
++ ---------------------- +
+
++ - + - + - + - + - + - + - +
+
++ ----------------------------------------- +
+- If something can be broken, I'll break it -
++ ----------------------------------------- +
